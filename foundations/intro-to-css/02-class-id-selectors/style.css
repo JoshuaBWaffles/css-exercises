@@ -5,4 +5,13 @@
 
 #die {
     color: blue;
+    font-size: 36px;
+}
+.cooler {
+    font-size: 24px;
+}
+#death {
+    background-color: rgb(133, 255, 133);
+    font-size: 24px;
+    font-weight: bold;
 }
